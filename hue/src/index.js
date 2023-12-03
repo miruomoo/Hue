@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client'
-import Hue from './Components/Hue.js'
 import './index.css';
+
+import Hue from './Components/Hue.js'
 
 const artistData = [
   {

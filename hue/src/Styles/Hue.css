@@ -1,21 +1,13 @@
-/* 
-const messages = [
-  "Learn React ⚛️",
-  "Apply for jobs 💼",
-  "Invest your new income 🤑",
-];
- */
+
 
  * {
     box-sizing: border-box;
   }
   
-  body {
-    font-family: sans-serif;
-    color: #333;
-  }
   
   .steps {
+    font-family: sans-serif;
+    color: #333;
     width: 600px;
     background-color: #f7f7f7;
     border-radius: 7px;
@@ -78,15 +70,15 @@ const messages = [
     line-height: 1;
   }
   
-  h3 {
+  /* h3 {
     margin: 0;
     text-transform: uppercase;
-  }
+  } */
   
   .close {
     position: absolute;
-    top: 16px;
-    right: 16px;
+    top: 800px;
+    right: 25vw;
     border: none;
     background: none;
     cursor: pointer;
