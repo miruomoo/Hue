@@ -6,42 +6,42 @@ import Hue from './Components/Hue.js'
 
 const artistData = [
   {
-    name: "Focaccia",
+    name: "Joji",
     ingredients: "Bread with italian olive oil and rosemary",
     price: 6,
     photoName: "pizzas/focaccia.jpg",
     soldOut: false,
   },
   {
-    name: "Pizza Margherita",
+    name: "Frank Ocean",
     ingredients: "Tomato and mozarella",
     price: 10,
     photoName: "pizzas/margherita.jpg",
     soldOut: false,
   },
   {
-    name: "Pizza Spinaci",
+    name: "Drake",
     ingredients: "Tomato, mozarella, spinach, and ricotta cheese",
     price: 12,
     photoName: "pizzas/spinaci.jpg",
     soldOut: false,
   },
   {
-    name: "Pizza Funghi",
+    name: "Tyler the Creator",
     ingredients: "Tomato, mozarella, mushrooms, and onion",
     price: 12,
     photoName: "pizzas/funghi.jpg",
     soldOut: false,
   },
   {
-    name: "Pizza Salamino",
+    name: "New Jeans",
     ingredients: "Tomato, mozarella, and pepperoni",
     price: 15,
     photoName: "pizzas/salamino.jpg",
     soldOut: true,
   },
   {
-    name: "Pizza Prosciutto",
+    name: "John Summit",
     ingredients: "Tomato, mozarella, ham, aragula, and burrata cheese",
     price: 18,
     photoName: "pizzas/prosciutto.jpg",
